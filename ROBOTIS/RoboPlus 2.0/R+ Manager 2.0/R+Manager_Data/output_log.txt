@@ -1,0 +1,147 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 24.21.13.9827]
+    Renderer: NVIDIA GeForce GTX 1050 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.317 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\System.Xml.dll (this message is harmless)
+@Not found ExternalXml folder! F:/ROBOTIS/RoboPlus 2.0/R+ Manager 2.0/R+Manager_Data/../ExternalXml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Initialize 1] vSync & TargetFrameRate : 1, 60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Initialize 1] Before Quality Level : 0 => After Quality Level : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Initialize 1] Screen & DPI 1 : 1024, 768 : 120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Resize Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1024, 768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Initialize 2] Rebuild font texture! False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Initialize 2] SystemLanguage : English
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ > en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ Language update : English:en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: F:\ROBOTIS\RoboPlus 2.0\R+ Manager 2.0\R+Manager_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library F:/ROBOTIS/RoboPlus 2.0/R+ Manager 2.0/R+Manager_Data/Mono/libc
+Fallback handler could not load library F:/ROBOTIS/RoboPlus 2.0/R+ Manager 2.0/R+Manager_Data/Mono/.\libc
+Fallback handler could not load library F:/ROBOTIS/RoboPlus 2.0/R+ Manager 2.0/R+Manager_Data/Mono/libc
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+recentProduct : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 5662.
+Total: 6.429500 ms (FindLiveObjects: 0.209600 ms CreateObjectMapping: 0.023400 ms MarkObjects: 5.394900 ms  DeleteObjects: 0.009900 ms)
+
+OpenProduct : DYNAMIXEL Series (1.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+recentDeviceID : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+recentDeviceID : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OpenPort:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Setup Baudrates : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[BaudRate] 57600 / 1900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[BaudRate] 57600 / 57600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[BaudRate] 57600 / 3000000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+패킷이 다들어오지 않음 || 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+패킷이 다들어오지 않음 || 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+### v2  : RX_SUCCESS / 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+### v1  : UNKNOWN / 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[BaudRate] 57600 / 3000000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ClosePort:False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+DISCONNECT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
